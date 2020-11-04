@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:wash2door_dashboard/authentication/login_page.dart';
-import 'package:wash2door_dashboard/dashboard/dashboard_page.dart';
+
+import 'authentication/login_page.dart';
+import 'dashboard/dashboard_page.dart';
 
 void main() {
   print('main method is called');
